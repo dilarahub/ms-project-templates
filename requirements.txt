@@ -1,0 +1,2 @@
+# No Python dependencies are required for the repository scaffold.
+# Add Python packages only if a template automation workflow is introduced.
